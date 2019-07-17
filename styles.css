@@ -1,0 +1,16 @@
+html {
+    /*We should actually use body, but there's too little content to fill the whole screen, so we use html for illustrative purposes*/
+    background-color: #ededed;
+}
+
+.card-footer-item.register {
+    background-color: #284863;
+    color: white;
+}
+.card-footer-item.register a {
+    color: #ffffff;
+}
+
+p {
+    color: #999;
+}
